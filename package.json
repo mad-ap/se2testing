@@ -1,0 +1,14 @@
+{
+  "name": "se2_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "k_invert.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
